@@ -1,0 +1,21 @@
+.counter-div {
+    width: 60%;
+    border-radius: 24px;
+    border: 1px black solid;
+    margin: 0 auto;
+    margin-top: 10rem;
+    background-color: rgb(230, 220, 230);
+}
+
+.counter-div button {
+    border: 1px black solid;
+    border-radius: 8px;
+    color: white;
+    background-color: rgb(76, 6, 141);
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.counter-div__button {
+    display: flex;
+}

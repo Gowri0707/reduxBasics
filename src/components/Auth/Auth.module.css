@@ -1,0 +1,17 @@
+.auth-form {
+    width: 30%;
+    margin: auto;
+    border: 1px black solid;
+    border-radius: 24px;
+    margin-top: 5rem;
+    background-color: rgb(230, 220, 230);
+}
+
+.auth-form button {
+    border: 1px black solid;
+    border-radius: 1rem;
+    background-color: rgb(65, 6, 121);
+    color: white;
+    padding: 0.5rem 1rem;
+    margin: 1rem;
+}
